@@ -4,4 +4,4 @@ This is a really awesome web
 
 Editing on update-readme
 
-Updated locally
+Updated locally, then remotely
